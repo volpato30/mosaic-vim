@@ -1,0 +1,12 @@
+[submodule "/Users/ruiqiao/.vim/bundle/nerdtree"]
+	path = /Users/ruiqiao/.vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/bundle/SimpylFold"]
+	path = bundle/bundle/SimpylFold
+	url = https://github.com/tmhedberg/SimpylFold.git
+[submodule "bundle/SimpylFold"]
+	path = bundle/SimpylFold
+	url = https://github.com/tmhedberg/SimpylFold.git
+[submodule "bundle/jedi-vim"]
+	path = bundle/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
