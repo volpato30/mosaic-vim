@@ -6,14 +6,11 @@ filetype plugin indent on
 set foldmethod=indent
 set foldlevel=99
 
-au BuNewFile, BufRead *.py
-	\ set tabstop=4
-	\ set softtabstop=4
-	\ set shiftwidth=4
-	\ set textwidth=79
-	\ set expandtab
-	\ set autoindent
-	\ set fileformat=unix
+set tabstop=8
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+set background=dark
 
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
